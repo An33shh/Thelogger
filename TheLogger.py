@@ -1,7 +1,6 @@
 # Author: Aneesh Arunjunai
 # Version: 1.0
 # This software is used to exfiltrate recorded data from Microphone, Screenshots, Keystrokes, Network/Wi-Fi, Webcam and Cached sensitive information such as passwords, email addresses, etc. from Google Chrome. 
-
 # Meant to be used only for educational purposes and any illegal usage of this software is strictly not advised. 
 
 
